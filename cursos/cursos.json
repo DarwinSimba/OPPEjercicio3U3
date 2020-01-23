@@ -1,0 +1,5 @@
+        [{"titulo" : "Fundamentos de programación", "costo" : 100, "descripcion" : "Algoritmos"},
+        {"titulo" : "POO", "costo" : 120, "descripcion" : "Clases"},
+        {"titulo" : "Física", "costo" : 80.00, "descripcion" : "Vectores"},
+        {"titulo" : "Programación web", "costo" : 110, "descripcion" : "PHP Laravel"},
+        {"titulo" : "Programacion Movil", "costo" : 180, "descripcion" : "Android"}]

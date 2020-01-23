@@ -1,0 +1,39 @@
+{
+  "numero": "10449c93-6504-48f8-904b-102e8bfcec4e",
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 47,
+    "second": 53
+  },
+  "estado": "Registrada",
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 49,
+        "second": 5
+      },
+      "valor": 11.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 49,
+        "second": 11
+      },
+      "valor": 11.0,
+      "unidad": "II"
+    }
+  ],
+  "promedio": 11.0
+}

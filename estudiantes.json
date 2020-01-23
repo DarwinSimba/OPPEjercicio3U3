@@ -1,0 +1,27 @@
+[
+  {
+    "carrera": "Ingeniería Electronica",
+    "clubes": [],
+    "nombre": "Darwin",
+    "apellido": "Simba",
+    "cedula": "0504102443"
+  },
+  {
+    "carrera": "Ingeniería Electrica",
+    "clubes": [
+      "Club de Cine"
+    ],
+    "nombre": "Jonel",
+    "apellido": "Taipe",
+    "cedula": "0605402448"
+  },
+  {
+    "carrera": "Ingeniería Electrica",
+    "clubes": [
+      "Club de Cine"
+    ],
+    "nombre": "Jonel",
+    "apellido": "Taipe",
+    "cedula": "0605402448"
+  }
+]

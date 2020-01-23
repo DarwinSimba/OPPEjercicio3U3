@@ -1,0 +1,28 @@
+{
+  "numero": "4d6f3615-b45d-4de4-aee9-301c657b59e2",
+  "Fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 12,
+    "minute": 0,
+    "second": 13
+  },
+  "estado": "Registrada",
+  "estudiante": {
+    "carrera": "Ingeniería Software",
+    "clubes": [
+      "Club de Danza"
+    ],
+    "nombre": "ramiro",
+    "apellido": "sdfgb",
+    "cedula": "8754210"
+  },
+  "curso": {
+    "titulo": "POO",
+    "costo": 120.0,
+    "descripcion": "Clases"
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}

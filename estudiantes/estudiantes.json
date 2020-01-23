@@ -1,0 +1,110 @@
+[
+  {
+    "carrera": "Ingeniería Electronica",
+    "clubes": [
+      "Club de Robótica"
+    ],
+    "nombre": "Darwin",
+    "apellido": "Simba",
+    "cedula": "0504102443"
+  },
+  {
+    "carrera": "Ingeniería Software",
+    "clubes": [
+      "Club de Danza",
+      "Club de Robótica"
+    ],
+    "nombre": "Jonel",
+    "apellido": "Taipe",
+    "cedula": "06985746"
+  },
+  {
+    "carrera": "Ingeniería Mecatronica",
+    "clubes": [
+      "Club de Cine",
+      "Club de camping"
+    ],
+    "nombre": "Javier",
+    "apellido": "Canbajal",
+    "cedula": "589866454"
+  },
+  {
+    "carrera": "Ingeniería Software",
+    "clubes": [
+      "Club de Danza"
+    ],
+    "nombre": "Ramiro ",
+    "apellido": "Tapia",
+    "cedula": "0268854"
+  },
+  {
+    "carrera": "Ingeniería Electronica",
+    "clubes": [
+      "Club de camping",
+      "Club de Musica",
+      "Club de Robótica"
+    ],
+    "nombre": "Jaime",
+    "apellido": "castillo",
+    "cedula": "065632121"
+  },
+  {
+    "carrera": "Ingeniería Mecanica",
+    "clubes": [
+      "Club de camping",
+      "Club de Musica"
+    ],
+    "nombre": "camila",
+    "apellido": "tapia",
+    "cedula": "065686"
+  },
+  {
+    "carrera": "Ingeniería Mecatronica",
+    "clubes": [
+      "Club de Cine",
+      "Club de Ajedres",
+      "Club de Musica"
+    ],
+    "nombre": "Carlos",
+    "apellido": "Lagla",
+    "cedula": "0635894"
+  },
+  {
+    "carrera": "Ingeniería Software",
+    "clubes": [
+      "Club de Cine",
+      "Club de Robótica"
+    ],
+    "nombre": "Juan",
+    "apellido": "Aguilar",
+    "cedula": "06893632594"
+  },
+  {
+    "carrera": "Ingeniería Electrica",
+    "clubes": [
+      "Club de Cine"
+    ],
+    "nombre": "Melida",
+    "apellido": "Simba",
+    "cedula": "036954487"
+  },
+  {
+    "carrera": "Ingeniería Electrica",
+    "clubes": [
+      "Club de Cine",
+      "Club de Danza"
+    ],
+    "nombre": "Roberto",
+    "apellido": "Iza",
+    "cedula": "8469641"
+  },
+  {
+    "carrera": "Ingeniería Software",
+    "clubes": [
+      "Club de Danza"
+    ],
+    "nombre": "ramiro",
+    "apellido": "sdfgb",
+    "cedula": "8754210"
+  }
+]
